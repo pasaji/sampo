@@ -1,0 +1,25 @@
+{
+  "name": "sampo",
+  "version": "1.0.0",
+  "description": "Cryptocurrency Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasaji/sampo.git"
+  },
+  "author": "Joonas Pasanen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pasaji/sampo/issues"
+  },
+  "homepage": "https://github.com/pasaji/sampo#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "ccxt": "^1.11.155",
+    "object-hash": "^1.3.0",
+    "technicalindicators": "^1.1.8"
+  }
+}
